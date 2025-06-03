@@ -10,15 +10,12 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **Processamento de Linguagem Natural (PLN):** Análise de texto, compreensão de linguagem, sistemas de diálogo.
 *   **Analítica de Linguagem Natural (NLA):** Processamento de Linguagem Natural, Ciência de Dados e Semiótica Cognitiva.
 *   **Modelos de Linguagem de Grande Porte (LLMs):** Estudo, seleção, otimização e aplicação de LLMs (incluindo modelos open-source).
-*   **Inteligência Artificial Generativa:** Desenvolvimentos e aplicações de IA capaz de criar novos conteúdos.
-*   **Sistemas de Agentes para LLMs:** Arquiteturas multiagente e distribuídas para interações complexas com LLMs.
-*   **Técnicas de Otimização de LLMs:**
-    *   **Retrieval Augmented Generation (RAG)**
-    *   **Fine-tuning (PEFT, LoRA)**
-    *   **Prompt Engineering**
+*   **Inteligência Artificial Generativa:** Desenvolvimentos e aplicações de IA capaz de reformar e criar novos conteúdos.
+*   **Sistemas de Agentes para LLMs:** Arquiteturas simples, multiagente e distribuídas para interações complexas com LLMs e dados.
+*   **Técnicas de Otimização de LLMs:** Retrieval Augmented Generation (RAG), Fine-tuning e Prompt Engineering.
+*   **Interpretabilidade e Ética em IA:** Assegurar a transparência e responsabilidade no desenvolvimento de sistemas de IA.
 *   **Machine Learning & Deep Learning para NLP:** Aplicação de redes neuronais e outros modelos a problemas de linguagem.
 *   **Exploração, Tratamento e Anonimização de Dados Textuais:** Preparação de datasets para modelos de IA.
-*   **Interpretabilidade e Ética em IA:** Assegurar a transparência e responsabilidade no desenvolvimento de sistemas de IA.
 
 
 ## 📚 Publicações & Contribuições Notáveis
