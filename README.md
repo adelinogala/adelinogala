@@ -46,7 +46,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   [https://abt-br.org.br/revista/revista-tecnologia-educacional-209/]
 
 *   **Artigo em Revista:** "Desvelando a Internet das Coisas" (Revista GeMinis, 2013).
-    *   Em coautoria com Lucia Santaella, Clayton Policarpo e Ricardo Gazoni, este estudo investiga as origens da Internet das Coisas, seu estado da arte e seus principais vetores tecnológicos, abordando desde as eras midiáticas até a arquitetura de Von Neumann e as máquinas de Turing.
+    *   Em coautoria com Lucia Santaella, este estudo investiga as origens da Internet das Coisas, seu estado da arte e seus principais vetores tecnológicos, abordando desde as eras midiáticas até a arquitetura de Von Neumann e as máquinas de Turing.
     *   [https://www.revistageminis.ufscar.br/index.php/geminis/article/view/141]
 
 ## 💻 Tecnologias & Ferramentas
