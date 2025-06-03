@@ -26,7 +26,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   [https://link.springer.com/book/10.1007/978-3-031-76631-2]
 
 *   **Artigo/Capítulo de Livro:** "Lexicon Annotation with LLM: A Proof of Concept with ChatGPT" (Springer, 2024).
-    *   Em colaboração com colegas, este trabalho apresenta uma prova de conceito para a anotação de léxicos utilizando Modelos de Linguagem de Grande Porte (LLMs), especificamente o ChatGPT, explorando a            *   viabilidade e eficácia dessa abordagem inovadora.
+    *   Em colaboração com colegas, este trabalho apresenta uma prova de conceito para a anotação de léxicos utilizando Modelos de Linguagem de Grande Porte (LLMs), especificamente o ChatGPT, explorando a viabilidade e eficácia dessa abordagem inovadora.
     *   [https://openreview.net/forum?id=wWyCN4ah6V&referrer=%5Bthe%20profile%20of%20Manuel%20Rodrigues%5D(%2Fprofile%3Fid%3D~Manuel_Rodrigues1)]
 
 *   **Artigo em Revista Científica:** "Emotional and Mental Nuances and Technological Approaches: Optimising Fact-Check Dissemination through Cognitive Reinforcement Technique" (Electronics, MDPI, 2024).
