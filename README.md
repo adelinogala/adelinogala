@@ -31,10 +31,6 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   Em colaboração com colegas, este trabalho apresenta uma prova de conceito para a anotação de léxicos utilizando Modelos de Linguagem de Grande Porte (LLMs), especificamente o ChatGPT, explorando a viabilidade e eficácia dessa abordagem inovadora.
     *   [https://openreview.net/forum?id=wWyCN4ah6V&referrer=%5Bthe%20profile%20of%20Manuel%20Rodrigues%5D(%2Fprofile%3Fid%3D~Manuel_Rodrigues1)]
 
-*   **Artigo em Revista Científica:** "Emotional and Mental Nuances and Technological Approaches: Optimising Fact-Check Dissemination through Cognitive Reinforcement Technique" (Electronics, MDPI, 2024).
-    *   Publicado na revista Electronics, este artigo explora, em conjunto com coautores, a otimização da disseminação de checagem de fatos (fact-checking). O foco está em considerar nuances emocionais e mentais e aplicar técnicas de reforço cognitivo para melhorar a eficácia da comunicação.
-    *   [https://www.mdpi.com/2079-9292/13/1/240]
-
 *   **Artigo em Conferência: "MentaLex:** A Mental Processes Lexicon Based on the Essay Dataset" (42nd SGAI International Conference on Artificial Intelligence, Springer, 2022).
     *   Apresentado na 42ª Conferência Internacional SGAI sobre Inteligência Artificial, este trabalho introduz o MentaLex. Desenvolvido em colaboração, é um léxico de processos mentais construído com base em um conjunto de dados de redações (essays), contribuindo para a análise de texto com foco psicológico.
     *   [https://link.springer.com/chapter/10.1007/978-3-031-21441-7_25]
