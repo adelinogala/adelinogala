@@ -56,17 +56,19 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **Ferramentas:** Git, Docker, Ollama, LM-Studio, Streamlit
 
 
-## 📌 Projetos em Destaque (ou Exemplos de Tipos de Projetos)
+## 📌 Exemplos de Projetos
 
 *   **Panorama sobre Operações Gerais de NLP**
-    *   Breve descrição: Ex: "Notebook utilizado no curso de Processamento de Linguagem Natural"
+    *   Breve descrição: Ex: "Notebook utilizado no curso de Processamento de Linguagem Natural."
     *   [https://github.com/adelinogala/adelinogala/blob/main/Opera%C3%A7%C3%B5esGeraisNLP.ipynb]
-*   **Regressão Logística para Análise de Sentimento**
-    *   Breve descrição: Ex: "Notebook para treinamento, aplicação e interação com um modelo de regressão logística especializado em analise de sentimento"
+
+*   **Modelo baseado em Regressão Logística para Análise de Sentimento**
+    *   Breve descrição: Ex: "Notebook para treinamento, aplicação e interação com um modelo de regressão logística especializado em análise de sentimento."
     *   [https://github.com/adelinogala/adelinogala/blob/main/MachineLearningLogisticRegressionSentiment.ipynb]
-*   **[Nome do Projeto 3 - Ex: ]**
-    *   Breve descrição: Ex: " "
-    *   [Link para o repositório deste projeto]
+
+*   **LLM fine-tuned para Análise de Emoções**
+    *   Breve descrição: Ex: "Notebook com LLM fine-tuned para análise interativa de emoções."
+    *   [https://github.com/adelinogala/adelinogala/blob/main/LLMBertClassificadorEmo%C3%A7%C3%B5es.ipynb]
 
 
 ## 🌐 Conecte-se Comigo
