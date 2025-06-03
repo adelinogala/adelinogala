@@ -24,12 +24,32 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   Uma obra que explora a análise de linguagem natural com foco nos modelos generativos de grande porte, resultado da colaboração com colegas do ALGORITMI.
     *   [https://link.springer.com/book/10.1007/978-3-031-76631-2]
 
+*   **Artigo/Capítulo de Livro:** "Lexicon Annotation with LLM: A Proof of Concept with ChatGPT" (Springer, 2024).
+    *   Em colaboração com colegas, este trabalho apresenta uma prova de conceito para a anotação de léxicos utilizando Modelos de Linguagem de Grande Porte (LLMs), especificamente o ChatGPT, explorando a     *      *   viabilidade e eficácia dessa abordagem inovadora.
+    *   [Adicionar link para a publicação aqui, se disponível]
+
+*   **Artigo em Revista Científica:** "Emotional and Mental Nuances and Technological Approaches: Optimising Fact-Check Dissemination through Cognitive Reinforcement Technique" (Electronics, MDPI, 2024).
+    *   Publicado na revista Electronics, este artigo explora, em conjunto com coautores, a otimização da disseminação de checagem de fatos (fact-checking). O foco está em considerar nuances emocionais e mentais     *   e aplicar técnicas de reforço cognitivo para melhorar a eficácia da comunicação.
+    *   [Adicionar link para a publicação aqui, se disponível]
+
+*   **Artigo em Conferência: "MentaLex:** A Mental Processes Lexicon Based on the Essay Dataset" (42nd SGAI International Conference on Artificial Intelligence, Springer, 2022).
+    *   Apresentado na 42ª Conferência Internacional SGAI sobre Inteligência Artificial, este trabalho introduz o MentaLex. Desenvolvido em colaboração, é um léxico de processos mentais construído com base em um     *   conjunto de dados de redações (essays), contribuindo para a análise de texto com foco psicológico.
+    *   [Adicionar link para a publicação aqui, se disponível]
+
+*   **Artigo de Posição/Capítulo de Livro:** "A Profile on Twitter Shadowban? An AI Ethics Position Paper on Free Speech" (Springer, 2021).
+    *   Um "position paper" colaborativo que investiga o fenômeno do "shadowban" no Twitter. O artigo discute as implicações éticas em Inteligência Artificial e as questões de liberdade de expressão relacionadas     *   a essa prática.
+    *   [Adicionar link para a publicação aqui, se disponível]
+
+*   **Artigo em Revista:** "Bases Fundamentais para Construção de uma Ferramenta Automática de Assessment de Personalidade" (Revista Tecnologia Educacional da ABT, 2015).
+    *   Publicado na Revista Tecnologia Educacional da ABT, este artigo de autoria de Ana Gala delineia os princípios essenciais para o desenvolvimento de ferramentas automatizadas de avaliação de personalidade,     *   com potencial aplicação em contextos educacionais e tecnológicos.
+    *   [Adicionar link para a publicação aqui, se disponível]
+
 ## 💻 Tecnologias & Ferramentas
 
 *   **Linguagens:** Python
 *   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers
 *   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn
-*   **Ferramentas:** Ollama, Git, Docker
+*   **Ferramentas:** Ollama, LM-Studio Git, Docker
 
 ## 📌 Projetos em Destaque (ou Exemplos de Tipos de Projetos)
 
@@ -53,5 +73,3 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **Lattes:** [http://lattes.cnpq.br/2954077742182765]
 
 ---
-
-Feito por Adelino Gala
