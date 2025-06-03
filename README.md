@@ -52,7 +52,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 ## 💻 Tecnologias & Ferramentas
 
 *   **Linguagens:** Python
-*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers, Langchain
+*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers, Langchain, ChromaDB
 *   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 *   **Ferramentas:** Ollama, LM-Studio, Git, Docker
 
