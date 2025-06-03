@@ -4,6 +4,7 @@ Bem-vindo(a) ao meu perfil GitHub! Sou um investigador doutorado com um forte fo
 
 Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuições na área da Inteligência Artificial.
 
+
 ## 🚀 Áreas de Expertise & Interesses
 
 *   **Processamento de Linguagem Natural (PLN):** Análise de texto, compreensão de linguagem, sistemas de diálogo.
@@ -18,6 +19,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **Machine Learning & Deep Learning para NLP:** Aplicação de redes neuronais e outros modelos a problemas de linguagem.
 *   **Exploração, Tratamento e Anonimização de Dados Textuais:** Preparação de datasets para modelos de IA.
 *   **Interpretabilidade e Ética em IA:** Assegurar a transparência e responsabilidade no desenvolvimento de sistemas de IA.
+
 
 ## 📚 Publicações & Contribuições Notáveis
 
@@ -49,12 +51,17 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   Em coautoria com Lucia Santaella, este estudo investiga as origens da Internet das Coisas, seu estado da arte e seus principais vetores tecnológicos, abordando desde as eras midiáticas até a arquitetura de Von Neumann e as máquinas de Turing.
     *   [https://www.revistageminis.ufscar.br/index.php/geminis/article/view/141]
 
+
 ## 💻 Tecnologias & Ferramentas
 
 *   **Linguagens:** Python
-*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers, Langchain, ChromaDB
-*   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-*   **Ferramentas:** Ollama, LM-Studio, Git, Docker
+*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers 
+*   **Frameworks de LLM:** Langchain, MCP
+*   **Modelos Locais de LLM e Embedding:** gemma3, devstral, qwen 3, deepseek r1, mxbai large, nomic embed
+*   **Bancos de Dados Vetoriais:**  ChromaDB
+*   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+*   **Ferramentas:** Git, Docker, Ollama, LM-Studio, Streamlit
+
 
 ## 📌 Projetos em Destaque (ou Exemplos de Tipos de Projetos)
 
@@ -67,6 +74,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **[Nome do Projeto 3 - Ex: ]**
     *   Breve descrição: Ex: " "
     *   [Link para o repositório deste projeto]
+
 
 ## 🌐 Conecte-se Comigo
 
