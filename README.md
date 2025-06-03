@@ -42,7 +42,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
     *   [https://repositorium.sdum.uminho.pt/handle/1822/79445]
 
 *   **Artigo em Revista:** "Bases Fundamentais para Construção de uma Ferramenta Automática de Assessment de Personalidade" (Revista Tecnologia Educacional da ABT, 2015).
-    *   Publicado na Revista Tecnologia Educacional da ABT, este artigo de autoria de Ana Gala delineia os princípios essenciais para o desenvolvimento de ferramentas automatizadas de avaliação de personalidade,     *   com potencial aplicação em contextos educacionais e tecnológicos.
+    *   Publicado na Revista Tecnologia Educacional da ABT, este artigo de autoria de Adelino Gala delineia os princípios essenciais para o desenvolvimento de ferramentas automatizadas de avaliação de     *          *   personalidade, com potencial aplicação em contextos educacionais e tecnológicos.
     *   [https://abt-br.org.br/revista/revista-tecnologia-educacional-209/]
 
 *   **Artigo em Revista:** "Desvelando a Internet das Coisas" (Revista GeMinis, 2013).
