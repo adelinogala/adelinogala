@@ -7,6 +7,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 ## 🚀 Áreas de Expertise & Interesses
 
 *   **Processamento de Linguagem Natural (PLN):** Análise de texto, compreensão de linguagem, sistemas de diálogo.
+*   **Analítica de Linguagem Natural (NLA):** Processamento de Linguagem Natural, Ciência de Dados e Semiótica Cognitiva.
 *   **Modelos de Linguagem de Grande Porte (LLMs):** Estudo, seleção, otimização e aplicação de LLMs (incluindo modelos open-source).
 *   **Inteligência Artificial Generativa:** Desenvolvimentos e aplicações de IA capaz de criar novos conteúdos.
 *   **Sistemas de Agentes para LLMs:** Arquiteturas multiagente e distribuídas para interações complexas com LLMs.
@@ -26,30 +27,34 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 
 *   **Artigo/Capítulo de Livro:** "Lexicon Annotation with LLM: A Proof of Concept with ChatGPT" (Springer, 2024).
     *   Em colaboração com colegas, este trabalho apresenta uma prova de conceito para a anotação de léxicos utilizando Modelos de Linguagem de Grande Porte (LLMs), especificamente o ChatGPT, explorando a     *      *   viabilidade e eficácia dessa abordagem inovadora.
-    *   [Adicionar link para a publicação aqui, se disponível]
+    *   [https://openreview.net/forum?id=wWyCN4ah6V&referrer=%5Bthe%20profile%20of%20Manuel%20Rodrigues%5D(%2Fprofile%3Fid%3D~Manuel_Rodrigues1)]
 
 *   **Artigo em Revista Científica:** "Emotional and Mental Nuances and Technological Approaches: Optimising Fact-Check Dissemination through Cognitive Reinforcement Technique" (Electronics, MDPI, 2024).
     *   Publicado na revista Electronics, este artigo explora, em conjunto com coautores, a otimização da disseminação de checagem de fatos (fact-checking). O foco está em considerar nuances emocionais e mentais     *   e aplicar técnicas de reforço cognitivo para melhorar a eficácia da comunicação.
-    *   [Adicionar link para a publicação aqui, se disponível]
+    *   [https://www.mdpi.com/2079-9292/13/1/240]
 
 *   **Artigo em Conferência: "MentaLex:** A Mental Processes Lexicon Based on the Essay Dataset" (42nd SGAI International Conference on Artificial Intelligence, Springer, 2022).
     *   Apresentado na 42ª Conferência Internacional SGAI sobre Inteligência Artificial, este trabalho introduz o MentaLex. Desenvolvido em colaboração, é um léxico de processos mentais construído com base em um     *   conjunto de dados de redações (essays), contribuindo para a análise de texto com foco psicológico.
-    *   [Adicionar link para a publicação aqui, se disponível]
+    *   [https://link.springer.com/chapter/10.1007/978-3-031-21441-7_25]
 
 *   **Artigo de Posição/Capítulo de Livro:** "A Profile on Twitter Shadowban? An AI Ethics Position Paper on Free Speech" (Springer, 2021).
     *   Um "position paper" colaborativo que investiga o fenômeno do "shadowban" no Twitter. O artigo discute as implicações éticas em Inteligência Artificial e as questões de liberdade de expressão relacionadas     *   a essa prática.
-    *   [Adicionar link para a publicação aqui, se disponível]
+    *   [https://repositorium.sdum.uminho.pt/handle/1822/79445]
 
 *   **Artigo em Revista:** "Bases Fundamentais para Construção de uma Ferramenta Automática de Assessment de Personalidade" (Revista Tecnologia Educacional da ABT, 2015).
     *   Publicado na Revista Tecnologia Educacional da ABT, este artigo de autoria de Ana Gala delineia os princípios essenciais para o desenvolvimento de ferramentas automatizadas de avaliação de personalidade,     *   com potencial aplicação em contextos educacionais e tecnológicos.
-    *   [Adicionar link para a publicação aqui, se disponível]
+    *   [https://abt-br.org.br/revista/revista-tecnologia-educacional-209/]
+
+*   **Artigo em Revista:** "Desvelando a Internet das Coisas" (Revista GeMinis, 2013).
+    *   Em coautoria com Lucia Santaella, Clayton Policarpo e Ricardo Gazoni, este estudo investiga as origens da Internet das Coisas, seu estado da arte e seus principais vetores tecnológicos, abordando desde       *   as eras midiáticas até a arquitetura de Von Neumann e as máquinas de Turing.
+    *   [https://www.revistageminis.ufscar.br/index.php/geminis/article/view/141]
 
 ## 💻 Tecnologias & Ferramentas
 
 *   **Linguagens:** Python
-*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers
-*   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn
-*   **Ferramentas:** Ollama, LM-Studio Git, Docker
+*   **Frameworks de ML/DL:** TensorFlow, PyTorch, Hugging Face Transformers, Langchain
+*   **Bibliotecas de PLN/Dados:** NLTK, spaCy, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+*   **Ferramentas:** Ollama, LM-Studio, Git, Docker
 
 ## 📌 Projetos em Destaque (ou Exemplos de Tipos de Projetos)
 
