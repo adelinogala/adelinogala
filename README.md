@@ -58,9 +58,9 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 
 ## 📌 Projetos em Destaque (ou Exemplos de Tipos de Projetos)
 
-*   **[Nome do Projeto 1 - Ex: ]**
-    *   Breve descrição: Ex: " "
-    *   [Link para o repositório deste projeto]
+*   **Panorama sobre Operações Gerais de NLP**
+    *   Breve descrição: Ex: "Notebook utilizado no curso de Processamento de Linguagem Natural"
+    *   [OperaçõesGeraisNLP.ipynb]
 *   **[Nome do Projeto 2 - Ex: ]**
     *   Breve descrição: Ex: " "
     *   [Link para o repositório deste projeto]
