@@ -60,7 +60,7 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 
 *   **Panorama sobre Operações Gerais de NLP**
     *   Breve descrição: Ex: "Notebook utilizado no curso de Processamento de Linguagem Natural"
-    *   [OperaçõesGeraisNLP.ipynb]
+    *   [https://github.com/adelinogala/adelinogala/blob/main/Opera%C3%A7%C3%B5esGeraisNLP.ipynb]
 *   **[Nome do Projeto 2 - Ex: ]**
     *   Breve descrição: Ex: " "
     *   [Link para o repositório deste projeto]
