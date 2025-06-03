@@ -61,9 +61,9 @@ Aqui poderá encontrar exemplos dos meus projetos, investigações e contribuiç
 *   **Panorama sobre Operações Gerais de NLP**
     *   Breve descrição: Ex: "Notebook utilizado no curso de Processamento de Linguagem Natural"
     *   [https://github.com/adelinogala/adelinogala/blob/main/Opera%C3%A7%C3%B5esGeraisNLP.ipynb]
-*   **[Nome do Projeto 2 - Ex: ]**
-    *   Breve descrição: Ex: " "
-    *   [Link para o repositório deste projeto]
+*   **Regressão Logística para Análise de Sentimento**
+    *   Breve descrição: Ex: "Notebook para treinamento, aplicação e interação com um modelo de regressão logística especializado em analise de sentimento"
+    *   [https://github.com/adelinogala/adelinogala/blob/main/MachineLearningLogisticRegressionSentiment.ipynb]
 *   **[Nome do Projeto 3 - Ex: ]**
     *   Breve descrição: Ex: " "
     *   [Link para o repositório deste projeto]
